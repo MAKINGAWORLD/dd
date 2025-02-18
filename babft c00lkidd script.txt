@@ -1,4 +1,4 @@
----@diagnostic disable: undefined-global
+---@c00lkidd disable: undefined-global
 
 if game.PlaceId ~= 537413528 then
     return
